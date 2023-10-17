@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleNews</string>
+    <string name="search_title">Seek</string>
+    <string name="full_article">Zum vollständigen Artikel</string>
+</resources>
